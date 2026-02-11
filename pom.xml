@@ -7,7 +7,7 @@
     <version>0.0.1-SNAPSHOT</version>
     <name>API Gateway</name>
     <description>API Gateway</description>
-    <url/>
+    <url>https://github.com/kiroff/api-gateway</url>
     <licenses>
         <license/>
     </licenses>
@@ -19,10 +19,10 @@
         </developer>
     </developers>
     <scm>
-        <connection/>
-        <developerConnection/>
+        <connection>scm:git:ssh://github.com:kiroff/api-gateway.git</connection>
+        <developerConnection>scm:git:ssh://github.com:kiroff/api-gateway.git</developerConnection>
         <tag/>
-        <url/>
+        <url>https://github.com/kiroff/api-gateway</url>
     </scm>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
